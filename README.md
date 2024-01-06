@@ -4,11 +4,11 @@ Welcome to our Microservices Project! This project aims to build a scalable and 
 
 ## Todo List
 
-1. **Customer Service and PostgreSQL Integration:**
+1. **Customer Service and PostgreSQL Integration:** -> Completed
     - Implement the Customer Service microservice.
     - Establish a connection to PostgreSQL for efficient data storage and retrieval.
 
-2. **Fraud Service and MongoDB Integration:**
+2. **Fraud Service and MongoDB Integration:** -> Completed
     - Develop the Fraud Service microservice.
     - Integrate MongoDB to store and manage fraud-related data.
 
